@@ -1,0 +1,7 @@
+git+https://github.com/roboflow/supervision.git
+transformers
+flash_attn
+timm
+einops
+peft
+roboflow
